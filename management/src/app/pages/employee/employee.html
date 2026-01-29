@@ -1,0 +1,11 @@
+@for (emp of users; track $index) {
+  <div class="card-container">
+    <div class="card">
+      <h3>Details</h3>
+      <p>Name:{{ emp.name }}</p>
+      <p>Age:{{ emp.age }}</p>
+      <p>country:{{ emp.country }}</p>
+      <p>Place:{{ emp.place }}</p>
+    </div>
+  </div>
+}
