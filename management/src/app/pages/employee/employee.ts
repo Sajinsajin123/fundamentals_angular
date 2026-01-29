@@ -13,5 +13,7 @@ export class Employee {
     { name: 'ajish', age: '23', country: 'America', place: 'dev' },
     { name: 'buvi', age: '27', country: 'Londan', place: 'los' },
     { name: 'bringo', age: '25', country: 'China', place: 'kuks' },
+    { name: 'ajay', age: '25', country: 'China', place: 'kuks' },
+    { name: 'ajith', age: '25', country: 'China', place: 'kuks' },
   ];
 }
