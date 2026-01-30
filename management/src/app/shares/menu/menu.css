@@ -1,0 +1,17 @@
+.contain {
+  border: 1px solid;
+  padding: 20px;
+  margin: 10px;
+}
+.ss {
+  text-align: center;
+  border: 1px solid;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 10px;
+  border-radius: 10px;
+}
+.ss:hover{
+    background: red;
+}
