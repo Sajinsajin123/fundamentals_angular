@@ -1,0 +1,18 @@
+.container {
+  border: 1px solid;
+  width: 400px;
+  padding: 50px;
+  border-radius: 20px;
+  background: rgb(246, 242, 242);
+  margin: auto;
+  margin-top: 10px;
+}
+.button {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 5px;
+}
+.co {
+  text-align: center;
+  padding: 20px;
+}
